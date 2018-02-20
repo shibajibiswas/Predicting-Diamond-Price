@@ -1,0 +1,12 @@
+name: Predict_Diamond_Price
+title: Predict_Diamond_Price
+username:
+account: shibajibiswas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 285495
+bundleId: 1231311
+url: https://shibajibiswas.shinyapps.io/Predict_Diamond_Price/
+when: 1519121131.5132
+asMultiple: FALSE
+asStatic: FALSE
